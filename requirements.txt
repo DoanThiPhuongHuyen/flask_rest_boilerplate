@@ -5,3 +5,6 @@ flask-script
 flask-restplus
 pytest
 PyMySQL
+requests
+pika
+redis
